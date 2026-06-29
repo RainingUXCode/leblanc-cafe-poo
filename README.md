@@ -2,7 +2,7 @@
 
 # ☕ Cafeteria Leblanc
 
-*Um sistema de terminal aconchegante gerenciado pela raposinha chibi Hanari 🦊✨*
+*Um sistema de terminal de recibos! ✨*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/POO-Concepts-B8E1DD?style=for-the-badge&logoColor=white)
