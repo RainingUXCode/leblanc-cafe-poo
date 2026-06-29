@@ -14,7 +14,7 @@
 
 ## 🌸 Sobre o Projeto
 
-Este é um projeto de estudo focado na aplicação prática de **Programação Orientada a Objetos (POO)** em Java. Inspirado em um ambiente de cafeteria *lo-fi* e aconchegante, o sistema gerencia os pedidos e o faturamento do menu de forma modular e escalável.
+Este é um projeto de estudo focado na aplicação prática de **Programação Orientada a Objetos (POO)** em Java. Inspirado em um ambiente de cafeteria, o sistema gerencia os pedidos e o faturamento do menu de forma modular e escalável.
 
 O sistema foi refatorado de um modelo procedural simples para um design inteiramente orientado a objetos, garantindo um código limpo, de fácil manutenção e pronto para receber novas funcionalidades de forma estruturada.
 
